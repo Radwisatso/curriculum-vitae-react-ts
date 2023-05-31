@@ -1,1 +1,1 @@
-# curriculum-vitae-react-ts
+# Curriculum Vitae with React TypeScript
